@@ -1,0 +1,17 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+  div {
+    width: 200px;
+    height: 700px;
+    background: #0f1de7;
+    position: absolute;
+    top: 0px;
+    left: 1000px;
+  }
+  {
+    .colorletra{
+      color: #323fad;
+  }
+  }
